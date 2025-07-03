@@ -1,4 +1,4 @@
-# PREF_PO_PY: Partial Order Preference Learning with MCMC
+# PO_mcmc_py: Partial Order Preference Learning with MCMC
 
 A Python implementation for inferring partial orders from preference data using Markov Chain Monte Carlo (MCMC) methods.
 
