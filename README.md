@@ -4,7 +4,7 @@ A Python implementation for inferring partial orders from preference data using 
 
 ## 🚀 Overview
 
-This repository implements the methodology described in [Nicholls et al. (2024)](https://arxiv.org/abs/2212.05524) for partial order inference using Hidden Markov Models and MCMC sampling.
+This repository implements the methodology described in [Nicholls et al. (2024)](https://arxiv.org/abs/2212.05524) for partial order inference using MCMC sampling.
 
 ### Key Features
 
@@ -13,13 +13,6 @@ This repository implements the methodology described in [Nicholls et al. (2024)]
 - **Comprehensive Utilities**: Tools for partial order operations, validation, and analysis
 - **Interactive Notebooks**: Complete workflow examples with visualizations
 - **Robust Implementation**: Well-tested utility functions with proper error handling
-
-## 📊 Mathematical Background
-
-The methodology is based on a Hidden Markov Model where:
-- The hidden state represents an evolving partial ordered set (poset)
-- The emitted data are random total orders respecting the poset
-- The model accounts for noise through a random "queue-jumping" process
 
 ## 🛠 Installation
 
