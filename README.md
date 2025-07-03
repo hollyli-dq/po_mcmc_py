@@ -19,7 +19,6 @@ This repository implements the methodology described in [Nicholls et al. (2024)]
 1. Clone the repository:
 ```bash
 git clone https://github.com/hollyli-dq/po_mcmc_py.git
-cd po_mcmc_py
 ```
 
 2. Install dependencies:
@@ -90,27 +89,6 @@ PREF_PO_PY/
 - **Covariate Support**: Integration of external variables into the model
 - **Noise Modeling**: Mallows model for handling preference inconsistencies
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📖 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{nicholls2024partial,
-  title={Partial Order Inference with MCMC},
-  author={Nicholls et al.},
-  journal={arXiv preprint arXiv:2212.05524},
-  year={2024}
-}
-```
-
-## 🐛 Issues & Support
-
-Please report issues on the [GitHub Issues](https://github.com/YOUR_USERNAME/PREF_PO_PY/issues) page.
