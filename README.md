@@ -18,8 +18,8 @@ This repository implements the methodology described in [Nicholls et al. (2024)]
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/PREF_PO_PY.git
-cd PREF_PO_PY
+git clone https://github.com/hollyli-dq/po_mcmc_py.git
+cd po_mcmc_py
 ```
 
 2. Install dependencies:
